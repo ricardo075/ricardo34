@@ -1,7 +1,7 @@
 import streamlit as st
 import math
 # Defina a senha
-senha_correta = "COMPARTILHEOSITE"
+senha_correta = "COMPARTILHEOSITE90"
 
 # Solicita a senha ao usuário
 senha_digitada = st.text_input("Digite a senha:", type="password")
